@@ -269,13 +269,3 @@ Article 21 – Pooling
 Yash Paunikar
 NIT Warangal
 Full-Stack, AI-Augmented Developer
-
-⭐ README COMPLETE — ready to submit
-
-Agar tum chaho to:
-
-✔ README ko shorten/expand kar dunga
-✔ Architecture diagram image bhi bana dunga
-✔ GIF demo add kar dunga
-
-Bas bol bhai.
